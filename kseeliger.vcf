@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.13.6//EN
+N:Seeliger;K.;
+FN:Katja Seeliger;
+ORG:Max Planck Institute for Human Cognitive and Brain Sciences;
+TITLE:Postdoctoral Researcher
+EMAIL;type=WORK:kseeliger posteo jp
+KEY;PGP:http://seeliger.space/katj_pgp_public_key.asc
+EMAIL;type=HOME:katj posteo de
+TEL;type=WORK;type=VOICE;type=pref:+49 (0)175 37 05 188
+ADR;type=WORK:;;Stephanstr. 1;Leipzig;;04103;Germany
+item1.URL:https://scholar.google.de/citations?hl=de&user=40a-kXoAAAAJ
+item1.X-ABLabel:Google Scholar
+item2.URL:http://seeliger.space/
+item2.X-ABLabel:Academic homepage
+item3.URL;type=pref:http://www.linkedin.com/in/kseeliger
+item3.X-ABLabel:LinkedIn
+item4.URL;type=pref:http://twitter.com/kateiyas
+item4.X-ABLabel:Twitter
+SOURCE:http://seeliger.space/kseeliger.vcf
+END:VCARD
